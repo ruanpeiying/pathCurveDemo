@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/drawable-mdpi-v4/test.png",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/drawable-mdpi/test.png"
+    }
+]

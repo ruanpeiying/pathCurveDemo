@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/layout/mianlayout.xml",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/layout/mianlayout.xml"
+    },
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/layout/item_mission_view.xml",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/layout/item_mission_view.xml"
+    },
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/layout/activity_word_mission.xml",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/layout/activity_word_mission.xml"
+    },
+    {
+        "merged": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/build/intermediates/res/merged/release/layout/activity_word.xml",
+        "source": "/Users/ruanpeiying/workDuia/androidProject/PathTest(3)/app/src/main/res/layout/activity_word.xml"
+    }
+]

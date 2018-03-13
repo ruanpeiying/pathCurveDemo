@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/test"
+    android:layout_height="wrap_content">
+    <ScrollView
+        android:id="@+id/scrollView_word_miss"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/relative_words_curve"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <!--<LinearLayout-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:orientation="vertical"-->
+                <!--android:id="@+id/linear_word_missionlist"-->
+                <!--android:layout_height="1350dp"/>-->
+        </RelativeLayout>
+    </ScrollView>
+    <!--<ListView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:id="@+id/listview_word_mission"-->
+    <!--android:layout_height="match_parent"></ListView>-->
+</LinearLayout>

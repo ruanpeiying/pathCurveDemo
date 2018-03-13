@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\duia\PathTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c838cb64e70536703abaa63f88bdc508c788d331">
+        <dex dex="D:\Workspace\duia\PathTest\app\build\intermediates\pre-dexed\debug\instant-run_7684671070f8c365c12338d6d5d01da4334b00c8.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\duia\PathTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="04ef29834c311bd415278a39e2fa75ce5cade5e1">
+        <dex dex="D:\Workspace\duia\PathTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f89beed921ded8998cc9fd04114f615ad311bd61.jar" />
+    </item>
+
+</items>
